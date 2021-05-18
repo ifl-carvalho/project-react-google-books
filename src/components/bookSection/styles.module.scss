@@ -1,0 +1,14 @@
+.navBar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  padding: 10px;
+
+  background-color: #3f91d4;
+
+  > h1 {
+    margin: 0;
+  }
+}

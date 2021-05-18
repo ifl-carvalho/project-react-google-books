@@ -1,0 +1,8 @@
+.bookList {
+  display: flex;
+  flex-wrap: wrap;
+
+  > a {
+    flex: 1 1 300px;
+  }
+}
